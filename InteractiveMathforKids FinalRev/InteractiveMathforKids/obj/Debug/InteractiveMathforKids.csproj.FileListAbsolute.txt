@@ -1,0 +1,71 @@
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csprojAssemblyReference.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.InteractiveMath.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.Properties.Resources.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.GenerateResource.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.CoreCompileInputs.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe.config
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.HelpForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe.config
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csprojAssemblyReference.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.InteractiveMath.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.HelpForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.Properties.Resources.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.GenerateResource.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.CoreCompileInputs.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.ExitGame.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe.config
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csprojAssemblyReference.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.ExitGame.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.InteractiveMath.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.HelpForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.Properties.Resources.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.GenerateResource.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.CoreCompileInputs.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids - Copy Level 3 Rev 2\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe.config
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csprojAssemblyReference.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.InteractiveMath.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.HelpForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.Properties.Resources.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.GenerateResource.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.CoreCompileInputs.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment\InteractiveMathforKids with Button on exit\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.ExitForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe.config
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csprojAssemblyReference.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.ExitForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.InteractiveMath.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.HelpForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.Properties.Resources.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.GenerateResource.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.CoreCompileInputs.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\22100043 Gorospe Rhea\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe.config
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\bin\Debug\InteractiveMathforKids.pdb
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csprojAssemblyReference.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.ExitForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.InteractiveMath.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.HelpForm.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.Properties.Resources.resources
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.GenerateResource.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.csproj.CoreCompileInputs.cache
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.exe
+D:\WHITIREIA\IT 5503(Programming I)\Assignment 1\Rhea Gorospe 22100043\InteractiveMathforKids FinalRev\InteractiveMathforKids\obj\Debug\InteractiveMathforKids.pdb
